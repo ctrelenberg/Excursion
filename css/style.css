@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+body {
+    background-color: black;
+}
+
+h1, h2, p {
+    color: white;
+}
+
+#phone {
+    padding: 10px;
+}
+
+#camp {
+    padding: 5px;
+}
